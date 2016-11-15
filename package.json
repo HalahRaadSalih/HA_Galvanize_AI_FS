@@ -1,0 +1,26 @@
+{
+  "name": "xp_problem_set_fs_with_tdd",
+  "version": "1.0.0",
+  "description": "## Approach",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/xp_problem_set_fs_with_tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/xp_problem_set_fs_with_tdd/issues"
+  },
+  "homepage": "https://github.com/gSchool/xp_problem_set_fs_with_tdd#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
